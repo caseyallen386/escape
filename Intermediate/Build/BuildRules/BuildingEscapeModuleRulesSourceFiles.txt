@@ -1,0 +1,3 @@
+C:\Users\Casey\Documents\Unreal Projects\03_building_escape\BuildingEscape\Source\BuildingEscape\BuildingEscape.Build.cs
+C:\Users\Casey\Documents\Unreal Projects\03_building_escape\BuildingEscape\Source\BuildingEscape.Target.cs
+C:\Users\Casey\Documents\Unreal Projects\03_building_escape\BuildingEscape\Source\BuildingEscapeEditor.Target.cs
